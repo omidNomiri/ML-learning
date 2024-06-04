@@ -1,4 +1,4 @@
-# Plot exercise
+# Knn exercise
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 After you install requirements library you can choice between the projects and run it.
 
-### online retail
+### knn example
 
 ``` terminal
 jupyter nbconvert --to script knn_example.ipynb
