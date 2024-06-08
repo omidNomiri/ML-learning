@@ -18,7 +18,7 @@ histogram of stature for man and woman
 confusion matrix plot
 ![plot data](output/confusion_matrix.png)
 
-| k  | Accuracy of ``result KNN algorithm`` (%) |
+| k  | Accuracy of ``KNN algorithm`` (%) |
 |----|--------------|
 | 9  | [0.8879736408566722] |
 | 11 | [0.8887973640856672] |
