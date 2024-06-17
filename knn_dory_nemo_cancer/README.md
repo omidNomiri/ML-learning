@@ -15,22 +15,27 @@ in this part i code knn algorithm.
 ### nemo knn
 
 input image
+
 ![input image](input/nemo_test.png)
 
 output image
+
 ![output image](output/nemo_output.png)
 
 ### dory knn
 
 input image
+
 ![input image](input/dory_test.png)
 
 input image
+
 ![output image](output/dory_output.png)
 
 ### iris knn
 
 confusion matrix plot
+
 ![plot data](output/iris_confusion_matrix.png)
 
 | k  | Accuracy of ``KNN algorithm`` (%) |
@@ -50,6 +55,7 @@ confusion matrix plot
 ### breast cancer knn
 
 confusion matrix plot
+
 ![plot data](output/breast_cancer_confusion_matrix.png)
 
 | k  | Accuracy of ``KNN algorithm`` (%) |
